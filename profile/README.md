@@ -1,4 +1,4 @@
-## SimpleWP
+## [SimpleWP](https://simplewp.com/)
 
 **SimpleWP** is a modern, AI-powered WordPress hosting platform designed to make creating and managing WordPress websites effortless. We provide a streamlined, user-friendly experience that eliminates the complexity of traditional WordPress hosting.
 
